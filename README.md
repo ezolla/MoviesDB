@@ -1,3 +1,5 @@
+![Movies](https://i.gyazo.com/2cbb86650e52b0f240f5a0c5fd24cfad.png)
+
 # MovieDB
 
 MovieDB is a an example on how to use [Reactjs](https://reactjs.org/) with a connection database such as this open source movie database which is used.
@@ -28,7 +30,7 @@ npm start
 
 ## Built With
 
-* [Reactjs](https://reactjs.org/) - Web Framework
+* [Reactjs](https://reactjs.org/) - Frontend Framework
 * [React Router](https://reacttraining.com/react-router/) - Routing System
 * [Styled Components](https://www.styled-components.com/) - CSS/JS Styles
 * [React Overdrive](https://www.npmjs.com/package/react-overdrive) - React Overdrive
